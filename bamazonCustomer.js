@@ -61,6 +61,6 @@ batman.connect(function(err){
             })
 
         })
-    });
+    })
 
-})
+});
